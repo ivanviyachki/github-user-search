@@ -1,0 +1,14 @@
+.landing_container {
+    text-align: center;
+}
+.landing_container h1{
+    font-size: 50px;
+}
+.landing_container img{
+    height: 50%;
+    width: 45%;
+    margin-bottom: 75px;
+}
+.landing_container p{
+    font-size: 18px;
+}

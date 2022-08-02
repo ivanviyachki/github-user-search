@@ -1,0 +1,14 @@
+body{
+  margin-top:20px;
+  color: #1a202c;
+  text-align: left;
+  background-color: #ffffff;    
+}
+
+.container{
+  max-width: 1144px !important;
+}
+
+h6{
+  font-weight: 200 !important;
+}
